@@ -1,0 +1,21 @@
+body {
+  background: #74ebd5;
+  background: -webkit-linear-gradient(to top, #acb6e5, #74ebd5);
+  background: linear-gradient(to top, #acb6e5, #74ebd5);
+}
+/* p {
+  color: black !important;
+} */
+.col-md-4 {
+  margin: 11px;
+}
+.card {
+  background-color: #a3d8f4;
+  border-color: #a3d8f4;
+}
+.text-center {
+  color: #3d7ea6;
+}
+.card-title {
+  font-weight: bold;
+}
